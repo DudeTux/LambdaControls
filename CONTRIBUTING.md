@@ -15,7 +15,7 @@ Feel free to propose changes to this document in a pull request.
 
 [Styleguides](#styleguides)
 
-## Code of Conduct
+## Code ofgvjhgvfhgv Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/LambdAurora/LambdaControls/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior at [aurora42lambda@gmail.com](mailto:aurora42lambda@gmail.com).
